@@ -1,4 +1,6 @@
+
 // {Journey Mariz Sermonia}: {Like a journey it has been}
+// {Kyla Joy Rapita}: {Live life to the fullest}
 
 import 'package:flutter/material.dart';
 
